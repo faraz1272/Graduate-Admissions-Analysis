@@ -85,5 +85,5 @@ The dataset includes the following features:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/graduate-admissions-analysis.git
+   https://github.com/yourusername/graduate-admissions-analysis.git
    cd graduate-admissions-analysis
